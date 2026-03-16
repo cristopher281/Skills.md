@@ -23,6 +23,7 @@ Como el eje central, este módulo delega y se integra con los siguientes nodos:
 - Ingeniería de Interfaces de Alto Rendimiento: [[engineering-modern-uis/SKILL|engineering-modern-uis]]
 - Hardware embebido: [[developing-iot-systems/SKILL|developing-iot-systems]]
 - Workflows y APIs: [[automating-n8n-workflows/SKILL|automating-n8n-workflows]]
+- Formación Profesional en BD: [[designing-academic-databases/SKILL|designing-academic-databases]]
 
 ---
 
